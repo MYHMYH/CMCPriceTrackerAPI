@@ -10,7 +10,6 @@ This project is a testament to my commitment to continuous learning and also hel
 Features: 
 - Live Price Updates: Fetches and displays the latest cryptocurrency prices in real-time from the CoinMarketCap API.
 - Color-Coded Indicators: Enhances readability by using color-coded price changes (green for increases, red for decreases).
-- Multi-Threading: Ensures concurrent updates and smooth user interaction for a seamless experience.
 - User-Interactive: Allows users to input cryptocurrency symbols and switch between them effortlessly.
 - Error Handling: Provides robust error handling to enhance user experience and script reliability.
 
