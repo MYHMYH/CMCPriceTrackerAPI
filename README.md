@@ -15,7 +15,6 @@ Features:
 
 Repository Structure:
 - cmc-price-tracker.py / python script .py format
-- cmc-price-tracker-text-file.txt / project - python script .txt format
 - readme.md / project info
 
 YouTube Tutorial Link: 
