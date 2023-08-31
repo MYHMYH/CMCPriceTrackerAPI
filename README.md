@@ -20,4 +20,4 @@ Repository Structure:
 - readme.md / project info
 
 YouTube Tutorial Link: 
-@Silviu-CyberPanda
+https://www.youtube.com/watch?v=UUFmyH9c3EQ
