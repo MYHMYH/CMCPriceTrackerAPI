@@ -5,7 +5,7 @@ import time
 from datetime import datetime
 
 # CoinMarketCap API parameters
-API_KEY = 'YOUR_CMC_API_KEY'
+API_KEY = '4fb0c484-aa91-45a7-8793-f9d1a7babb83'
 PRICE_URL = 'https://pro-api.coinmarketcap.com/v1/cryptocurrency/quotes/latest'
 
 # Global variables to control the display loop and store historical data
